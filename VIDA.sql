@@ -1,3 +1,4 @@
+/*" FON "*/
 create database vida;
 
 use vida;
